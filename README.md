@@ -15,14 +15,6 @@
 
 - ⚡ Fun fact: *Halo died on Reach* 🎮
 
-
----
-
-### 🎵 Recently played on Spotify
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21t5uac4jg3jejpz5fw2mk6ni&count=5&width=1000&unique=true)
-
-
-
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -82,5 +74,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fostertooth1&show_icons=true&locale=en&layout=compact" alt="fostertooth1" />
 </p>
+
+---
+
+### 🎵 Recently played on Spotify
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21t5uac4jg3jejpz5fw2mk6ni&count=5&width=1000&unique=true)
 
 
