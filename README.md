@@ -12,7 +12,7 @@
   - [**Land Logistics System:** Prototype based on weather predictions using Machine Learning and Bio-inspired algorithms (CUDA optimized).](https://github.com/FosterTooth1/TT/tree/main/TT2/Vistas)
   - [**Real-time Weather API:** REST API deployment using FastAPI and n8n for real-time queries.](https://github.com/FosterTooth1/API_Clima)
 
-- 🌱 I’m currently exploring: **Generative AI Solutions** (LLMs, Fine-tuning) and **Cloud Infrastructure** (OCI, GCP).
+- 🌱 I’m currently exploring: **Generative AI Solutions** (LLMs, Fine-tuning) and **Automated Workflows** (n8n).
 
 - ⚡ Fun fact: *Halo died on Reach* 🎮
 
