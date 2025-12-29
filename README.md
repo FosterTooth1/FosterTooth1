@@ -9,8 +9,8 @@
 ---
 
 - 🔭 I’m currently working on:  
-  - [**Intelligent land logistics system:** Optimization of distribution routes through climate prediction with random forest and simulated annealing algorithm via a web page..](https://github.com/FosterTooth1/TT)
-  - [**Weather Forecasting API:** A FastAPI-based REST API that exposes a machine learning model (Random Forest) trained for real-time weather forecasting. Designed for integration with n8n automation workflows.](https://github.com/FosterTooth1/API_Clima)
+  - [**Intelligent land logistics system:** Optimization of distribution routes through climate prediction with random forest and simulated annealing algorithm via a web page.](https://github.com/FosterTooth1/TT)
+  - [**Telegram weather prediction bot:** A FastAPI-based REST API that exposes a Random Forest ML model for weather prediction. Integrates with Telegram via n8n workflows, supporting text and voice queries for municipalities and industrial facilities.](https://github.com/FosterTooth1/API_Clima)
 
 - 🌱 I’m currently exploring: **Generative AI solutions** (LLMs, Fine-tuning) and **automated workflows** (n8n).
 
