@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Beto!</h1>
+<h1 align="center">I'm Alberto Flores Lara</h1>
 
 <h3 align="center">
-🎓 Artificial Intelligence Engineering student at <b>ESCOM - IPN</b> <br>
-🚀 Passionate about generative AI, optimization and automated workflows<br>
-💻 Focused on <b>bio-inspired algorithms</b> for optimization problems and <b>parallel computing</b> for high performance computing
+- Artificial Intelligence Engineering student at <b>ESCOM - IPN</b> <br>
+- Passionate about generative AI, optimization and automated workflows<br>
+- Focused on <b>bio-inspired algorithms</b> for optimization problems and <b>parallel computing</b> for high performance computing
 </h3>
 
 ---
 
-- 🔭 I’m currently working on:  
+- I’m currently working on:  
   - [**Intelligent land logistics system:** Optimization of distribution routes through climate prediction with random forest and simulated annealing algorithm via a web page.](https://github.com/FosterTooth1/TT)
   - [**Telegram weather prediction bot:** A FastAPI-based REST API that exposes a Random Forest ML model for weather prediction. Integrates with Telegram via n8n workflows, supporting text and voice queries for municipalities and industrial facilities.](https://github.com/FosterTooth1/API_Clima)
 
-- 🌱 I’m currently exploring: **Generative AI solutions** (LLMs, Fine-tuning) and **automated workflows** (n8n).
+- I’m currently exploring: **Generative AI solutions** (LLMs, Fine-tuning) and **automated workflows** (n8n).
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alberto-flores-lara-46ab4634a" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" />
@@ -24,7 +24,7 @@
 </p>
 
 ---
-<h3 align="left">🛠️ Languages and tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 **Programming languages** <p>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
